@@ -23,7 +23,7 @@ Conocimientos a aplicar:
 
 - `lab_Apellido_Nombre.ipynb` (cuaderno de jupyter)
 - `node_Apellido_Nombre.txt` (archivo de texto plano) con los flujos exportados desde `Node-RED` (Como exportar flujos en Node-RED: https://randomnerdtutorials.com/exporting-and-backing-up-your-node-red-nodes/)
-- `bash_Apellido_Nombre.txt` con el historico de comandos bash empleados en el laboratorio, ejeuctando el siguiente comando en la terminal de la Raspberry Pi o la Máquina Virtual de la Raspberry Pi:
+- `bash_Apellido_Nombre.txt` con el historico de comandos bash empleados en el laboratorio, ejecutando el siguiente comando en la terminal de la Raspberry Pi (simulado o real):
 
 ```bash
 history > bash_<Apellido>_<Nombre>.txt
