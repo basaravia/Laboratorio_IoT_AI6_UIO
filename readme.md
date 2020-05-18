@@ -11,7 +11,7 @@
 Conocimientos a aplicar: 
 - Conexiones remotas a Raspberry pi
 - Uso de Raspbian OS a través de `bash`
-- Manejo de GPIO/GPIO Emulator 
+- Manejo de `GPIO/GPIOEmulator`
 - Uso de la clase `time` y `threading`en python
 - Manejo de protocolo `UART` a través de pyserial (empleando SOCAT para simular puertos seriales)
 - Publicacion y suscripcion de mensajes a través de `MQTT`
