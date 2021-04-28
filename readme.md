@@ -36,6 +36,11 @@ history > bash_<Apellido>_<Nombre>.txt
  <img src="img/ai6UIO.png" height="300px" width="300px"></img>
 </center>
 
+___
+
+[![Open In Colab](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-saravia) 
+
+
 > Desarrollo: Alexander Saravia
 
 > email: alexandersaravia@protonmail.com 
